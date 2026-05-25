@@ -21,8 +21,7 @@ A modern Android UI assignment developed using Kotlin + XML for the OceanX Agenc
 
 ## Screenshots
 
-<img width="1748" height="913" alt="image" src="https://github.com/user-attachments/assets/ea591067-72e0-41e7-bb60-b030ffe5e92a" />
-
+<img width="1080" height="2400" alt="app screenshot" src="https://github.com/user-attachments/assets/d5d87adb-7778-4aa4-b000-69e1c72ba424" />
 
 ## Project Structure
 - activity_main.xml
